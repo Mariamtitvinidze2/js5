@@ -82,11 +82,13 @@ background: var(--color-grey-700, #333);
 width: 300px;
 color: #FFFFFF;
 font-family: "Inter";
+border: 0;
 }
 
 .item1:hover {
     background-color: #C4F82A;
     color: black;
+    cursor: pointer;
 }
 
 
